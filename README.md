@@ -18,7 +18,7 @@ int main(){
   int howManyWorksDone = 0;
   int yearsFromEndingSchool = 2;
 
-  String workingNow = "BethanyGarden(MieldewMeat/Bethanys_Garden/README.md)";
+  String workingNow = "BethanyGarden";
 
   String whatAmI = "A random guy in the attic";
   String whatILike = "Honey Meat";
