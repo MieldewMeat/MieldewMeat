@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2>MieldewMeat</h2>
 
-<!--
-**MieldewMeat/MieldewMeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```C++
+#include <iostream>
+#include <vector>
 
-Here are some ideas to get you started:
+using namespace std;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main(){
+  String[2] pronouns= {"he", "him"};
+
+  vector <String> codeLanguageLearned;
+  //codeLanguageLearned.reserve(3);
+  codeLanguageLearned.pushBack("C++");
+  codeLanguageLearned.pushBack("C");
+  codeLanguageLearned.pushBack("Java");
+
+  int howManyWorksDone = 0;
+  int yearsFromEndingSchool = 2;
+
+  String workingNow = "BethanyGarden(MieldewMeat/Bethanys_Garden/README.md)";
+
+  String whatAmI = "A random guy in the attic";
+  String whatILike = "Honey Meat";
+}
+```
